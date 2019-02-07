@@ -24,10 +24,10 @@ Sag, was der Schritt sein wird
 Beispiele
 ```
 
-And repeat
+Und wiederholen
 
 ```
-until finished
+bis fertig
 ```
 
 Eine schrittweise Reihe von Beispielen, die Ihnen zeigen, wie Sie eine Entwicklungsumgebung zum Laufen bringen
@@ -56,32 +56,32 @@ Beispiele
 
 Add additional notes about how to deploy this on a live system
 
-## Built With
+## Mit gebaut
 
-- [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-- [Maven](https://maven.apache.org/) - Dependency Management
-- [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+- [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - Das verwendete Webframework
+- [Maven](https://maven.apache.org/) - Abhängigkeitsmanagement
+- [ROM](https://rometools.github.io/rome/) - Wird verwendet, um RSS-Feeds zu generieren
 
-## Contributing
+## Mitwirken
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Bitte lesen Sie [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) für Details zu unserem Verhaltenskodex und dem Verfahren zur Übermittlung von Pull-Anfragen an uns.
 
-## Versioning
+## Versionierung
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
+Wir verwenden [SemVer](http://semver.org/) zur Versionierung. Informationen zu den verfügbaren Versionen finden Sie in den [Tags in diesem Repository](https://github.com/your/project/tags) .
 
-## Authors
+## Autoren
 
-- **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+- **Billie Thompson** - *Erste Arbeit* - [PurpleBooth](https://github.com/PurpleBooth)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+Siehe auch die Liste der [Mitwirkenden,](https://github.com/your/project/contributors) die an diesem Projekt teilgenommen haben.
 
-## License
+## Lizenz
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+Dieses Projekt steht unter der MIT-Lizenz. [Weitere Informationen finden Sie in der](LICENSE.md) Datei [LICENSE.md](LICENSE.md)
 
-## Acknowledgments
+## Danksagungen
 
-- Hat tip to anyone whose code was used
+- Hat Tipp an alle, deren Code verwendet wurde
 - Inspiration
-- etc
+- usw
