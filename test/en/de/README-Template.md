@@ -4,7 +4,7 @@ Ein Abschnitt der Projektbeschreibung geht hier
 
 ## Fertig machen
 
-Mit diesen Anweisungen erhalten Sie eine Kopie des Projekts, das zu Entwicklungs- und Testzwecken auf Ihrem lokalen Computer installiert ist. Hinweise zur Bereitstellung des Projekts auf einem Live-System finden Sie unter Bereitstellung.
+я по-другому перевожу этот кусок
 
 ### 1. Voraussetzungen
 
