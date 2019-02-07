@@ -1,6 +1,6 @@
 # Дас ист Проджект тайтл
 
-Ein Abschnitt der Projektbeschreibung geht hier
+теперь только это
 
 ## Fertig machen
 
