@@ -2,13 +2,13 @@
 
 теперь только это
 
-## Fertig machen
+## Другой перевод для теста
 
 я по-другому перевожу этот кусок
 
 ### 1. Voraussetzungen
 
-Welche Dinge benötigen Sie, um die Software zu installieren und wie Sie sie installieren
+И здесь для теста другой перевод
 
 ```
 Beispiele
