@@ -1,6 +1,6 @@
 # Project Title
 
-One Paragraph of project description goes here
+Адзін пункт апісання праекта тут ідзе
 
 ## Большой перевод Большой перевод Большой перевод Большой перевод Большой перевод Большой перевод Большой перевод Большой перевод 
 
@@ -11,7 +11,7 @@ These instructions
 
 ### Пеерва Пеерва Пеерва Пеерва Пеерва Пеерва Пеерва Пеерва Пеерва Пеерва Пеерва Пеерва Пеерва 
 
-What things you need to install the software and how to install them
+Якія рэчы вы павінны ўсталяваць праграмнае забеспячэнне і як іх усталяваць
 
 ```
 Перевод странного сегмента Перевод странного сегмента Перевод странного сегмента Перевод странного сегмента Перевод странного сегмента Перевод странного сегмента Перевод странного сегмента 
@@ -21,25 +21,25 @@ What things you need to install the software and how to install them
 
 k
 
-Say what the step will be
+Скажыце, што крок будзе
 
 ```
 Перевод странного сегмента Перевод странного сегмента Перевод странного сегмента Перевод странного сегмента Перевод странного сегмента Перевод странного сегмента Перевод странного сегмента 
 ```
 
-And repeat
+І паўторыце
 
 ```
-until finished
+пакуль не скончана
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
+Канец з прыкладам атрымання некаторых дадзеных з сістэмы або выкарыстоўваць яго для невялікіх дэма
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
+Растлумачце, як запускаць аўтаматызаваныя тэсты для гэтай сістэмы
 
-### Break down into end to end tests
+### Разбіце ў канцы, каб скончыць тэсты
 
 Explain what these tests test and why
 
@@ -47,17 +47,17 @@ Explain what these tests test and why
 Перевод странного сегмента Перевод странного сегмента Перевод странного сегмента Перевод странного сегмента Перевод странного сегмента Перевод странного сегмента Перевод странного сегмента 
 ```
 
-### And coding style tests
+### І кадаваньне тэстаў стыль
 
-Explain what these tests test and why
+Скажыце, што гэтыя тэсты тэст і чаму
 
 ```
-Give an example
+Прывядзіце прыклад
 ```
 
-## Deployment
+## разгортванне
 
-Add additional notes about how to deploy this on a live system
+Дадаць дадатковыя нататкі аб тым, як разгарнуць гэта на жывы сістэме
 
 ## Built With Built WithBuilt WithBuilt WithBuilt WithBuilt WithBuilt WithмBuilt WithBuilt WithBuilt WithBuilt WithBuilt WithBuilt With
 
@@ -65,19 +65,19 @@ Add additional notes about how to deploy this on a live system
 - [Maven](https://maven.apache.org/) - Dependency Management
 - [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
-## Contributing
+## садзейнічанне
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Калі ласка , прачытайце [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) падрабязнай інфармацыі аб кодэксе паводзінаў, і працэсе падачы цягнуць запыты да нас.
 
 ## Versioning
 
 We use [SemVer](http://semver.org/) for versioning
 
-## Authors
+## аўтары
 
-- **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+- **Billie Томпсан** - *Першапачатковая праца* - [PurpleBooth](https://github.com/PurpleBooth)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+Глядзіце таксама спіс [удзельнікаў](https://github.com/your/project/contributors) , якія ўдзельнічалі ў гэтым праекце.
 
 ## License
 
@@ -86,5 +86,5 @@ see the [LICENSE.md](LICENSE.md) file for details
 ## Acknowledgments
 
 - Hat tip to anyone whose code was Hat tip to anyone whose code was Hat tip to anyone whose code was Hat tip to anyone whose code was  
-- Inspiration
+- натхненне
 - etc
