@@ -1,10 +1,10 @@
-# Дас ист Проджект тайтл
+# тестовое название
 
-теперь только это
+тестовый перевод 
 
-## Fertig machen
+## Getting Started
 
-я по-другому перевожу этот кусок
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### 1. Voraussetzungen
 
@@ -14,7 +14,7 @@ Welche Dinge benötigen Sie, um die Software zu installieren und wie Sie sie ins
 Beispiele
 ```
 
-###  Installieren
+### Installieren
 
 Eine schrittweise Reihe von Beispielen, die Ihnen zeigen, wie Sie eine Entwicklungsumgebung zum Laufen bringen
 
